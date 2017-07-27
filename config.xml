@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android = "http://schemas.android.com/apk/res/android" id="com.pixelgang.catchsnap" version="1.2">
 
+
 	<name>Catch Me Outside Prank Snap</name>
 	<description>Act like you and the celebrity are talking</description>
 	<author href="http://www.pixelgangstudios.com" email="support@pixelgangstudios.com">Pixel Gang Studios</author>
@@ -29,6 +30,7 @@
 	<plugin name="cordova-plugin-wkwebview-engine" />
 	<plugin name="cordova-plugin-file" />
 	<plugin name="cordova-plugin-httpd" />
+	<plugin name="cordova-plugin-camera" />
 
 	<plugin name="cordova-plugin-whitelist" source="npm" />
 	<access origin="*" />
