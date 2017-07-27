@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android = "http://schemas.android.com/apk/res/android" id="com.pixelgang.catchsnap" version="1.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android = "http://schemas.android.com/apk/res/android" id="com.pixelgang.catchsnap" version="1.2">
 
 	<name>Catch Me Outside Prank Snap</name>
 	<description>Act like you and the celebrity are talking</description>
@@ -13,7 +13,6 @@
 
 	<feature name="http://api.phonegap.com/1.0/network"/>
 	<feature name="http://api.phonegap.com/1.0/camera"/>
-	<plugin name="cordova-plugin-media" source="npm" />
 
 	<preference name="orientation" value="portrait" />
 	<preference name="fullscreen" value="true" />
